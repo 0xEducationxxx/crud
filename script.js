@@ -1,5 +1,5 @@
 var db = [];
-var fn = document.getElementById('fn');
+var fn = document.getElementById('fn')
 var email = document.getElementById('email');
 var grade = document.getElementById('grade');
 var addBtn = document.getElementById('add');
