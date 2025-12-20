@@ -1,4 +1,4 @@
-jjjjjjjvar db = [];
+jjjjvar db = [];
 var fn = document.getElementById('fn');
 var email = document.getElementById('email');
 var grade = document.getElementById('grade');
